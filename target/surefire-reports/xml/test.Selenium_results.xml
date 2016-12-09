@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.283">
+           time="3.450">
   <properties />
   
   
-            <testcase name="logIn" time="3.283" classname="test.Selenium" />
+            <testcase name="logIn" time="3.450" classname="test.Selenium" />
       
 </testsuite>
