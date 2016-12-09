@@ -57,6 +57,7 @@ public class Selenium {
 		WebElement login = dr.findElement(By.id("cn"));
 		login.click();
 		dr.manage().window().maximize(); // 鏈�ぇ鍖�
+		dr.close();
 	}
 	 
 	@AfterClass(alwaysRun = true)
